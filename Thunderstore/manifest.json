@@ -1,0 +1,9 @@
+{
+  "name": "FishingBonus",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/AzumattDev/FishingBonus",
+  "description": "The FishingBonus mod lets players customize fishing drops via a YAML file, tailoring each fish's loot for a unique catch experience. Uses ServerSync, will sync server configs to clients if installed on both server/client.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202"
+  ]
+}

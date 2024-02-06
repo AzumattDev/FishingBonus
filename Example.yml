@@ -1,0 +1,181 @@
+fishDrops:
+  Fish1:
+    addToDefaultDrops: false
+    dropMin: 1
+    dropMax: 1
+    dropChance: 0.2
+    oneOfEach: false
+    drops:
+      - item: Stone
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 1
+      - item: Amber
+        minStack: 1
+        maxStack: 1
+        relativeWeight: 0.2
+  Fish10:
+    addToDefaultDrops: false
+    dropMin: 1
+    dropMax: 1
+    dropChance: 0.2
+    oneOfEach: false
+    drops:
+      - item: CarrotSeeds
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 1
+      - item: Silver
+        minStack: 1
+        maxStack: 1
+        relativeWeight: 0.5
+  Fish11:
+    addToDefaultDrops: false
+    dropMin: 1
+    dropMax: 1
+    dropChance: 0.2
+    oneOfEach: false
+    drops:
+      - item: FlametalOre
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 1
+      - item: SurtlingCore
+        minStack: 1
+        maxStack: 1
+        relativeWeight: 0.5
+  Fish12:
+    addToDefaultDrops: false
+    dropMin: 1
+    dropMax: 1
+    dropChance: 0.2
+    oneOfEach: false
+    drops:
+      - item: Sap
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 1
+      - item: Ooze
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 1
+  Fish2:
+    addToDefaultDrops: false
+    dropMin: 1
+    dropMax: 1
+    dropChance: 0.2
+    oneOfEach: false
+    drops:
+      - item: Flint
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 1
+      - item: AmberPearl
+        minStack: 1
+        maxStack: 1
+        relativeWeight: 0.2
+  Fish3:
+    addToDefaultDrops: false
+    dropMin: 1
+    dropMax: 1
+    dropChance: 0.2
+    oneOfEach: false
+    drops:
+      - item: TinOre
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 1
+      - item: Ruby
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 0.2
+  Fish4_cave:
+    addToDefaultDrops: false
+    dropMin: 1
+    dropMax: 1
+    dropChance: 0.2
+    oneOfEach: false
+    drops:
+      - item: Obsidian
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 1
+      - item: Coins
+        minStack: 1
+        maxStack: 15
+        relativeWeight: 0.2
+  Fish5:
+    addToDefaultDrops: false
+    dropMin: 1
+    dropMax: 1
+    dropChance: 0.2
+    oneOfEach: false
+    drops:
+      - item: TrollHide
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 0.5
+      - item: CopperOre
+        minStack: 1
+        maxStack: 1
+        relativeWeight: 0.5
+  Fish6:
+    addToDefaultDrops: false
+    dropMin: 1
+    dropMax: 1
+    dropChance: 0.2
+    oneOfEach: false
+    drops:
+      - item: IronOre
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 1
+      - item: Chain
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 0.2
+  Fish7:
+    addToDefaultDrops: false
+    dropMin: 1
+    dropMax: 1
+    dropChance: 0.2
+    oneOfEach: false
+    drops:
+      - item: BlackMetalScrap
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 0.5
+      - item: Barley
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 0.5
+  Fish8:
+    addToDefaultDrops: false
+    dropMin: 1
+    dropMax: 1
+    dropChance: 0.2
+    oneOfEach: false
+    drops:
+      - item: Chitin
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 1
+      - item: OnionSeeds
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 0.5
+  Fish9:
+    addToDefaultDrops: false
+    dropMin: 1
+    dropMax: 1
+    dropChance: 0.2
+    oneOfEach: false
+    drops:
+      - item: Softtissue
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 1
+      - item: JuteBlue
+        minStack: 1
+        maxStack: 2
+        relativeWeight: 1
